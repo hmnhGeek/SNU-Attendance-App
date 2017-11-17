@@ -16,8 +16,11 @@ The app can do the following.
 
 ## Screenshots
 ![devnote](Images/devnote.png)
+
 ![about](Images/aboutattapp.png)
-**These screenshots are what would see on Windows.**
+
+
+**These screenshots are what you would see on Windows.**
 **To install the app on Windows, download the Installer.**
 
 ## Disclaimer

@@ -21,7 +21,7 @@ The app can do the following.
 
 
 **These screenshots are what you would see on Windows.**
-**To install the app on Windows, download the Installer [INSTALLER](https://github.com/hmnhGeek/SNU-Attendance-App/blob/master/SNU%20Attendance%20App%20(Upgraded%20Website).exe).**
+**To install the app on Windows, download the [INSTALLER](https://github.com/hmnhGeek/SNU-Attendance-App/blob/master/SNU%20Attendance%20App%20(Upgraded%20Website).exe).**
 
 ## Disclaimer
 The app is subjected to the changes in the website.

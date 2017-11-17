@@ -21,7 +21,7 @@ The app can do the following.
 
 
 **These screenshots are what you would see on Windows.**
-**To install the app on Windows, download the Installer.**
+**To install the app on Windows, download the Installer [INSTALLER](SNU Attendance App (Upgraded Website).exe).**
 
 ## Disclaimer
 The app is subjected to the changes in the website.

@@ -1,0 +1,10 @@
+Version 1.0
+SNU Attendance App
+-------------------
+
+AUTHOR: Himanshu Sharma
+
+With the new Multi-Core processing, this app is powerful enough to do many tasks at a time.
+Mark your attendance and view your attendance. If you have an attendance below 75 %, then it will
+warn you too. It will also tell you the number of classes you need to attend to cover up. So, sit back
+and relax. One click and its done. This is made possible by the multi-processing approach.
